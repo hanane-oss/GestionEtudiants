@@ -8,6 +8,7 @@ import GestionEtudiants from './Components/GestionEtudiants';
 function App() {
     return (
         <div>
+            <h2>Gestion des étudiants BTS DAI</h2>
             <h1>Gestion</h1>
 
            <h1>Gestion</h1>
