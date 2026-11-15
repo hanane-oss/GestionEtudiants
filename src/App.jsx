@@ -12,8 +12,7 @@ function App() {
             <h1>Gestion</h1>
 
            <h1>Gestion</h1>
-
-
+<p>Projet React récupéré depuis GitHub</p>
             <Etudiant
                 nom="Alami"
                 prenom="Ahmed"
